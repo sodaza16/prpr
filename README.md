@@ -1,6 +1,6 @@
 # vue-netlify
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
